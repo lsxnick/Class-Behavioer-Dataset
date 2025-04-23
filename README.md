@@ -1,4 +1,4 @@
-# Class-Behavioer-Dataset，
+# Class-Behavioer-Dataset
 # 基于SCB数据集筛选和重新标记的数据集
 
 内含：\
